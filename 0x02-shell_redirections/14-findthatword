@@ -1,1 +1,1 @@
-13-unique\ngrep root /etc/passwd
+#!/bin/bash\ngrep root /etc/passwd
